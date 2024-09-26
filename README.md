@@ -60,7 +60,7 @@ Fabric Version: 0.92.2+1.20.1
 API Changes: None
 
 # Installation
-To use this script, ensure you have Python installed on your machine. You can download Python from the official website.
+To use this script, ensure you have Python installed on your machine. You can download Python from the Microsoft Store.
 
 Steps to Run the Script
 Clone or download this repository.
