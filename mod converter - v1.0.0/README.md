@@ -82,3 +82,4 @@ The script will update the gradle.properties and fabric.mod.json files and apply
 # Important Notes
 Ensure you back up your mod files before running the script, as it will overwrite existing configuration files.
 The script may require modification for specific use cases or additional versions not covered in the default mappings.
+I will be adding a .jar brute forcer to update only the fabric.mod.json which will work on some but not all mods.
